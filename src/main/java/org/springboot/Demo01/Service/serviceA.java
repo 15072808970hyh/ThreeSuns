@@ -1,4 +1,4 @@
-package org.springboot.Demo01.Service.impl;
+package org.springboot.Demo01.Service;
 
 public interface serviceA {
 }
